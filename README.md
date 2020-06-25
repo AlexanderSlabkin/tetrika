@@ -10,6 +10,7 @@ Test tasks from tetrika. Python back-end developer position.
 
 
 Tasks.
+
 1.
 Дан массив целых чисел array и целое число k. Нужно вывести все уникальные пары чисел из массива, сумма которых равна k.
 
