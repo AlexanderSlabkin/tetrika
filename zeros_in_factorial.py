@@ -3,7 +3,7 @@ def count_zeros(n):
 
     i=5
     while n/i >= 1:
-        count += int(n/i)
+        count += n//i
         i *= 5
 
     return count
